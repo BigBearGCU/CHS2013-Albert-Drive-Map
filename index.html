@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+    <title>Albert Drive</title>
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/knockout/2.3.0/knockout-min.js"></script>
+    <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAMexjo4kFzd1kVTSaypeg1OsBU264RRjU&sensor=false"></script>
+    <script src="http://connect.soundcloud.com/sdk.js"></script>
+    <script src="/lib/sha1.js"></script>
+    <script src="/lib/codebird.js"></script>
+    <script src="/lib/geoxml3.js"></script>
+    <script src="app.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/albert.css">
+</head>
+<body>
+<div id="longitutde"><input data-bind="value: mapLongtitude" /></div>
+<div id="latitude"><input data-bind="value: mapLatitude" /></div>
+<div id="googleMap" style="width:500px;height:380px;"></div>
+<div id="name"><p>Selected: <input data-bind="value: selectedPlaceName" /></p></div>
+<div id="twitter">
+<b data-bind="text: twitterScreenName"></b>
+    <ul class="fruitList" data-bind="foreach: tweets">
+        <li data-bind="text: $data"></li>
+    </ul>
+</div>
+<div id="youtube">
+    <iframe title="YouTube video player" class="youtube-player" type="text/html"
+            width="640" height="390" src="//www.youtube.com/embed/oNL9grXO2FI"
+            frameborder="0" allowFullScreen></iframe>
+</div>
+<div id="image">
+    <img data-bind="attr:{src: displayImage}" />
+</div>
+<div id="sound">
+    <iframe width="640" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F100584212"></iframe>
+</div>
+</body>
+</html>
+

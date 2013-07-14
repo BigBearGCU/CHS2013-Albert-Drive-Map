@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Albert Drive Media</name>
+		<NetworkLink>
+			<name>Albert Drive</name>
+			<Link>
+				<href>http://mapsengine.google.com/map/kml?mid=zFJ1pl3CAxPU.krA1MKNxzy24&amp;lid=zFJ1pl3CAxPU.kx1MYyxKB3rY</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>
