@@ -200,8 +200,8 @@ function CreateKMLMapOverlay(googleMap)
         createMarker: addMyMarker,
         createOverlay: addMyOverlay
     });
-    myParser.parse(["resources/Albert Drive Public Spaces.kml","resources/Albert Drive Media Static.kml",
-        "resources/Albert Drive Media.kml","resources/Albert Drive Public Spaces.kml",
+    myParser.parse(["resources/AlbertRoadStatic2.kml","resources/AlbertDriveMediaStatic.kml",
+        "resources/AlbertDriveMedia.kml","resources/AlbertDrivePublicSpaces.kml",
         "resources/AlbertDriveCommunityMap.kml"]);
 }
 
