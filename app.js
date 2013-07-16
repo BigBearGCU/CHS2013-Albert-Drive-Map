@@ -20,6 +20,7 @@ var vModel;
 var myParser;
 var map;
 var markers=new Array();
+var selectedMarkers=new Array();
 var playerHeading=270;
 
 
@@ -102,6 +103,29 @@ function ShowKeyCode(evt) {
     else if (evt.keyCode=='40'){
         moveBackward();
     }
+    else if(evt.keyCode='37')
+    {
+        //left
+        yaw(-90);
+    }
+    else if(evt.keyCode='39')
+    {
+        //right
+        yaw(90);
+    }
+    if (evt.keyCode=='32')
+    {
+        //space bar
+    }
+}
+
+function yaw(amount)
+{
+    playerHeading+=amount;
+    map.getStreetView().setPov(/** @type {google.maps.StreetViewPov} */({
+        heading: playerHeading,
+        pitch: 0
+    }));
 }
 
 function difference(link) {
@@ -142,6 +166,7 @@ function moveForward() {
     map.getStreetView().setPano(curr.pano);
 }
 
+
 function CreateGoogleMap(longitutde,latitude)
 {
     var mapDiv = document.getElementById('googleMap');
@@ -160,6 +185,12 @@ function CreateGoogleMap(longitutde,latitude)
         pitch: 0
     }));
 
+    google.maps.event.addListener(map.getStreetView(), 'position_changed', function() {
+        console.log("Position Changed")
+        var pos=map.getStreetView().getPosition();
+        getNearestMarkers(pos.lat(),pos.lng())
+    });
+
 }
 
 function CreateKMLMapOverlay(googleMap)
@@ -169,7 +200,9 @@ function CreateKMLMapOverlay(googleMap)
         createMarker: addMyMarker,
         createOverlay: addMyOverlay
     });
-    myParser.parse(["/resources/Albert Drive Public Spaces.kml","/resources/Albert Drive Media Static.kml"]);
+    myParser.parse(["/resources/Albert Drive Public Spaces.kml","/resources/Albert Drive Media Static.kml",
+        "/resources/Albert Drive Media.kml","/resources/Albert Drive Public Spaces.kml",
+        "/resources/AlbertDriveCommunityMap.kml"]);
 }
 
 function addUserMarker()
@@ -232,9 +265,75 @@ function trim1 (str) {
     return str.replace(/^\s\s*/, '').replace(/\s\s*$/, '');
 }
 
+function getNearestMarkers(lat1,lng1)
+{
+        var pi = Math.PI;
+        var R = 6371; //equatorial radius
+        var distances = [];
+        var closest = -1;
+
+
+        for( i=0;i<markers.length; i++ ) {
+
+            var lat2 = markers[i].latitude;
+            var lon2 = markers[i].longitude;
+            var chLat = lat2-lat1;
+            var chLon = lon2-lng1;
+
+
+            var dLat = chLat*(pi/180);
+            var dLon = chLon*(pi/180);
+
+            var rLat1 = lat1*(pi/180);
+            var rLat2 = lat2*(pi/180);
+
+            var a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+                Math.sin(dLon/2) * Math.sin(dLon/2) * Math.cos(rLat1) * Math.cos(rLat2);
+            var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+            var d = R * c;
+
+
+            distances[i] = d;
+            if ( closest == -1 || d < distances[closest] ) {
+                closest = i;
+            }
+        }
+
+    markerSelected(markers[closest]);
+}
+
 function addMyOverlay(groundOverlay) {
     // Overlay handling code goes here
     myParser.createOverlay(groundOverlay);
+}
+
+function markerSelected(marker)
+{
+    vModel.selectedPlaceName(marker.name);
+    console.log(marker);
+    if (marker.type=="video")
+    {
+        vModel.displayVideo(marker.contentURL);
+        $("#image").hide();
+        $("#youtube").show();
+        $('#sound').hide();
+    }
+    else if(marker.type=="sound")
+    {
+        $("#image").hide();
+        $("#youtube").hide();
+        $('#sound').show();
+    }
+    else if (marker.type=="image")
+    {
+        console.log("image "+marker.contentURL);
+        vModel.displayImage(marker.contentURL);
+        $("#image").show();
+        $("#image").removeAttr('style');
+        $("#image").css({ top:'-480px',left:'600px'});
+        $("#youtube").hide();
+        $('#sound').hide();
+    }
 }
 
 function iconClicked(eventClick)
@@ -245,6 +344,8 @@ function iconClicked(eventClick)
     {
         if (mouselngLat.jb==markers[i].latitude && mouselngLat.kb==markers[i].longitude)
         {
+            markerSelected(markers[i]);
+            /*
             vModel.selectedPlaceName(markers[i].name);
             console.log(markers[i]);
             if (markers[i].type=="video")
@@ -271,7 +372,7 @@ function iconClicked(eventClick)
                 $("#image").css({ top:'-480px',left:'600px'});
                 $("#youtube").hide();
                 $('#sound').hide();
-            }
+            }*/
         }
     }
 
