@@ -6,20 +6,21 @@
     <script src="http://cdnjs.cloudflare.com/ajax/libs/knockout/2.3.0/knockout-min.js"></script>
     <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAMexjo4kFzd1kVTSaypeg1OsBU264RRjU&sensor=false"></script>
     <script src="http://connect.soundcloud.com/sdk.js"></script>
-    <script src="/lib/sha1.js"></script>
-    <script src="/lib/codebird.js"></script>
-    <script src="/lib/geoxml3.js"></script>
+    <script src="lib/sha1.js"></script>
+    <script src="lib/codebird.js"></script>
+    <script src="lib/geoxml3.js"></script>
     <script src="app.js"></script>
-    <link rel="stylesheet" type="text/css" href="../css/albert.css">
+    <link rel="stylesheet" type="text/css" href="css/albert.css">
 </head>
 <body>
+<h2>Use arrow keys to navigate the street</h2>
 <div id="longitutde"><input data-bind="value: mapLongtitude" /></div>
 <div id="latitude"><input data-bind="value: mapLatitude" /></div>
 <div id="googleMap" style="width:500px;height:380px;"></div>
 <div id="name"><p>Selected: <input data-bind="value: selectedPlaceName" /></p></div>
 <div id="twitter">
 <b data-bind="text: twitterScreenName"></b>
-    <ul class="fruitList" data-bind="foreach: tweets">
+    <ul class="tweet" data-bind="foreach: tweets">
         <li data-bind="text: $data"></li>
     </ul>
 </div>
