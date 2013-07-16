@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Albert Drive Community Map</name>
+  <description><![CDATA[Add your images, sounds, videos, and memories to this map to update the We Are On Albert Drive interactive bench. Find our more at: http://www.albertdrive.com]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Albert Dr</name>
+    <description><![CDATA[Glasgow, Glasgow City G41, UK<br><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=55.843314,-4.280513&amp;thumb=0">]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-4.280513,55.843315,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Making an Albert Drive Hack</name>
+    <description><![CDATA[I have been working on a hack around the Albert Drive Tramway project data as part of Culture Hack Scotland 2013 (<a href="https://twitter.com/search/realtime?q=%23chscot&amp;src=hash" target="_blank">#chscot</a>).<div><br>&nbsp;</div><div>Looking at the data I have been blown away by the diversity of the Drive and the creativity of the community.</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-4.278392,55.843090,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

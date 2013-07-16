@@ -1,0 +1,32 @@
+#youtube
+{
+    position:relative;
+    top:-430px;
+    left:600px;
+    display: block;
+}
+
+#image
+{
+    position:relative;
+    top:-820px;
+    left:600px;
+    width:640px;
+    height:480px;
+    display: block;
+}
+
+#sound
+{
+    position:relative;
+    top:-430px;
+    left:600px;
+    display: block;
+}
+#image img
+{
+    max-width:100%;
+    max-height:100%;
+    margin:auto;
+    display:block;
+}

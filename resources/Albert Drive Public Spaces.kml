@@ -1,0 +1,1935 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Albert Drive Public Spaces</name>
+		<Placemark>
+			<styleUrl>#icon-503-FF8277</styleUrl>
+			<name>Albert Dr</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[null
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.2909888000000365,55.844554,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-795046</styleUrl>
+			<name>St Ninian's Episcopal Church</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.266214370727539,55.84089195056187,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-A61B4A</styleUrl>
+			<name>Tramway</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value>Would recommend the @AlbertDrive performance @GlasgowTramway wonderful performance by residence of AD #community http://t.co/Wm3eN7YH70</value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value>http://twitter.com/AnnNisbet/statuses/353546229722013697 </value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Theatre.. 
+
+Tweets: Would recommend the @AlbertDrive performance @GlasgowTramway wonderful performance by residence of AD #community http://t.co/Wm3eN7YH70
+Read More: http://twitter.com/AnnNisbet/statuses/353546229722013697 ]]></description>
+			<Point>
+				<coordinates>-4.267225563526154,55.84097615441069,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-A61B4A</styleUrl>
+			<name>Scottish Ballet</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.266399443149567,55.84060981682894,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-FF8277</styleUrl>
+			<name>Shields Retail Centre</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.266235828399658,55.84103153072157,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Walker Woodstock Building Merchant</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.267099499702454,55.84136378693035,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Pollockshields East</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.26844596862793,55.84131267077535,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-62AF44</styleUrl>
+			<name>Banana Leaf Resataurant</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.269714653491974,55.841570380705384,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-9FC3FF</styleUrl>
+			<name>Haviz Bros' Travel and Money TRansfer</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.269781708717346,55.841585289492045,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-9FC3FF</styleUrl>
+			<name>The Property Store</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.269897043704987,55.84160658774877,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Islamic Relief</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.270039200782776,55.841649184227236,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-E6EEA3</styleUrl>
+			<name>Fulton</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.269993603229523,55.841821699487745,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Abdul's Halal Butchers</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.270133078098297,55.84166622280555,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Maria Fashion</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.270181357860565,55.84167900173443,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Ramzan Jewellers</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.270460307598114,55.84171307885742,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Fariah</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.270395934581757,55.841708819218695,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Ummah Welfare Trust</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.270336925983429,55.84170668939913,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-9FC3FF</styleUrl>
+			<name>Airways Travel</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.270894825458527,55.841787622459925,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Okara Clothing</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.2707714438438416,55.84198356496199,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-9FC3FF</styleUrl>
+			<name>Farah's Ultrafast Slimming</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.270857274532318,55.84200699280374,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-9FC3FF</styleUrl>
+			<name>Farah's Hair and Beauty</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.27092969417572,55.84201551201543,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Punjab Food Store</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.2709967494010925,55.84202616102745,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-9FC3FF</styleUrl>
+			<name>Sonic CCTV</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.27106112241745,55.84203042063138,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-62AF44</styleUrl>
+			<name>The Chicken Hut</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.271128177642822,55.84204106963928,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-62AF44</styleUrl>
+			<name>Halal Kebab Hut</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.2711979150772095,55.842053848444905,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-9FC3FF</styleUrl>
+			<name>Perfect Cut</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.270961880683899,55.841808920605814,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Variety Silks</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.271026253700256,55.841821699487724,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-795046</styleUrl>
+			<name>St Albert's Catholic Church</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.271436631679535,55.84184512742704,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Tehzeeb</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.271275699138641,55.84206236764632,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Asia Jewellers</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.271326661109924,55.842070886845875,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Ljbaas Designer Wear</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.271407127380371,55.8420836656417,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>M. Ali and Bro's Fresh Halal Meats and Chicken</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.271965026855469,55.841985694766365,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Shandar Sweets and Panhouse</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.272061586380005,55.842021901422974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Ramzan's Costume Jewellery</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.272115230560303,55.84203468023489,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-9FC3FF</styleUrl>
+			<name>Black and Lizar's Opticians</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.2722198367118835,55.842045329241614,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-795046</styleUrl>
+			<name>St Albert's Catholic Church</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.271876513957977,55.842175246888864,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Singhaar Costume Jewellery &amp; Asian Bridal Wear</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.272329807281494,55.842064497446394,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Delicious Too Halal Bakery</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.272402226924896,55.8420836656417,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Gogna Jeweller</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.272463917732239,55.84210070402959,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Yaqub Jewellers</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.272509515285492,55.84210496362541,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Spice Garden Fresh Fruit and Vegetables</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.272589981555939,55.84209857423153,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-62AF44</styleUrl>
+			<name>Lahore Kebab House</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.272394180297852,55.84222423211854,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Pollokshields Pharmacy</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.272517561912537,55.84225617897419,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Shanazia</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.273166656494141,55.842181636270126,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Ataa Jewellers</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.273239076137543,55.84219867461509,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-9FC3FF</styleUrl>
+			<name>Lop Girl Hair and Beauty</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.273362457752228,55.84222849170082,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Londis Central</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.272976219654083,55.842358408735926,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Najaab</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.273129105567932,55.842349889599404,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>The Local Charity Shop</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.273196160793304,55.842358408735926,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Diamond Fruits</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.273279309272766,55.84237970656913,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>ASR Gift Centre</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.273375868797302,55.84240313417218,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Sharif Jewellers</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.27343487739563,55.842411653297056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Cotton Silk</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.273504614830017,55.84242443198088,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Begum's Collection</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.273499250411987,55.842258308763654,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>The Paper Rack</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.27355021238327,55.84227747686342,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-9FC3FF</styleUrl>
+			<name>Shields Associates Ltd.</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.273590445518494,55.842288125803634,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Islamic Book Centre</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.27367627620697,55.84229877474095,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Darul Kutub</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.273764789104462,55.84230516410193,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-9FC3FF</styleUrl>
+			<name>Regency Medical Practice</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.2737191915512085,55.84246063822887,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-9FC3FF</styleUrl>
+			<name>Bank of Scotland</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.274177849292755,55.842564997225566,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<name>East Pollokshields Out of School Care</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.274408519268036,55.842369057654004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<name>Pollokshields Primary School</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.274649918079376,55.8424457297779,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Khoobsurat Fabrics</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.274352192878723,55.84259907357201,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-62AF44</styleUrl>
+			<name>Raja's Pizza Bar</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.274448752403259,55.8426033331132,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Al-Hamra Food Store</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.27454799413681,55.84261185219424,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-9FC3FF</styleUrl>
+			<name>Impressions Photography and Make Up Studio</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.27467942237854,55.842626760581496,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-9FC3FF</styleUrl>
+			<name>Oceanic Hair and Beauty Studios</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.27481085062027,55.842652317803505,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Nisa Local</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.275363385677338,55.84264166896303,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>East Meets West</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.275484085083008,55.84266296664105,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<name>Azad Newsagents</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.275594055652618,55.842684264307415,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-795046</styleUrl>
+			<name>Pollokshields Church of Scotland</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.275784492492676,55.84297391141131,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Post Box</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.281105995178223,55.84342967527884,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-9FC3FF</styleUrl>
+			<name>Careshare Childcare</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.2838311195373535,55.84412608918598,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-000000-4-76</styleUrl>
+			<name>Deadend</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Series of bollards stopping all vehicles.
+
+Tweets: 
+Read More: ]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>0</tessellate>
+						<coordinates>-4.288248717784882,55.844439151923396,0.0 -4.288302361965179,55.844332668282036,0.0 -4.288267493247986,55.844332668282036,0.0 -4.288213849067688,55.84443702225345,0.0 -4.288248717784882,55.844439151923396,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-A61B4A</styleUrl>
+			<name>Albert Drive Studios</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.286355078220367,55.84394932475794,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Post Box</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.290425330400467,55.84469364664465,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Post Box</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.2748939990997314,55.84261611173403,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Post Box</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<Point>
+				<coordinates>-4.270825088024139,55.84177058393479,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-000000-4</styleUrl>
+			<name>Albert Drive</name>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Tweets</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<ExtendedData>
+				<Data name='string'>
+					<displayName>Read More</displayName>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[
+
+Tweets: 
+Read More: ]]></description>
+			<LineString>
+				<tessellate>0</tessellate>
+				<coordinates>-4.297285079956055,55.837132689377945,0.0 -4.29689884185791,55.8381448339137,0.0 -4.296469688415527,55.83918104983413,0.0 -4.295825958251953,55.84012084969427,0.0 -4.295225143432617,55.840988337095006,0.0 -4.294495582580566,55.84200038126572,0.0 -4.293723106384277,55.84298830373513,0.0 -4.293422698974609,55.84339792276212,0.0 -4.293036460876465,55.843855727155294,0.0 -4.292349815368652,55.844265337042444,0.0 -4.291620254516602,55.84443399868265,0.0 -4.2909888000000365,55.844554,0.0 -4.289817810058594,55.844626753946834,0.0 -4.288787841796875,55.84445809314293,0.0 -4.287242889404297,55.844265337042444,0.0 -4.2853546142578125,55.84402439057269,0.0 -4.282822608947754,55.84366296806793,0.0 -4.279689788818359,55.84325335183367,0.0 -4.275999069213867,55.84274734935013,0.0 -4.273166656494141,55.842181636270126,0.0 -4.270460307598114,55.84171307885742,0.0 -4.26844596862793,55.84131267077535,0.0 -4.265527725219727,55.840771467059426,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='icon-503-4186F0'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-E6EEA3'>
+			<IconStyle>
+				<color>ffA3EEE6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-9FC3FF'>
+			<IconStyle>
+				<color>ffFFC39F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-62AF44'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='poly-000000-4-76'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='icon-503-795046'>
+			<IconStyle>
+				<color>ff465079</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-000000-4'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id='icon-1459'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1459-trans-train.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-A61B4A'>
+			<IconStyle>
+				<color>ff4A1BA6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-FF8277'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
